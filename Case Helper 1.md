@@ -59,7 +59,7 @@ Parâmetros que a EM deve exibir, armazenar e transmitir.
 Fonte: https://documentation.espressif.com/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.html
 
 GY-87
-Módulo de sensores que utilizam protocolo I2C. (Combina 3 chips de sensores diferentes)
+Módulo de sensores que utilizam protocolo I2C. (Combina 3 chips de sensores diferentes) (Tem regulador de tensão)
 
 Sensores Integrados no GY-87:
 
