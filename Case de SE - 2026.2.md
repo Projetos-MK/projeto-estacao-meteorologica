@@ -17,14 +17,14 @@ Datas importantes:
 
 - **ESP32-WROOM-32E**: cérebro do projeto. Tem Wi-Fi 2,4 GHz e processa tudo.
 - **DHT11**: umidade e temperatura (mas é pouco preciso).
-- **GY-87**: tem o BMP180, que mede pressão e temperatura. Use o BMP180 para pressão e, se possível, para temperatura.
+- **GY-87**: tem o BMP180, que mede pressão e temperatura.
 - **RTC DS3231**: relógio de tempo real para gerar o TEMPO.
 - **LoRa RA-01/RA-02**: comunicação em 433 MHz.
 - **LCD 20x4 com I2C**: visor.
 - **Memória**: dá para usar a memória flash interna do ESP32 com LittleFS/SPIFFS.
 - **Alimentação**: bateria LiFePO4 6,6 V + regulador LM2596 para 5 V/3,3 V.
 
-## 3. Conceitos que você vai precisar aprender 
+## 3. Conceitos para aprender 
 
 - **GPIO**: pinos que ligam/desligam e conversam com componentes.
 - **I2C**: protocolo de 2 fios usado por BMP180, RTC e LCD.
