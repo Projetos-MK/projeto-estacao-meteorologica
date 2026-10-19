@@ -1,10 +1,4 @@
-Perfeito. Vamos usar este chat como seu espaço de mentoria para o case da **Estação Meteorológica (EM) da Venturi Aerodesign**.
-
-Como você está no início de Ciência da Computação e “não sabe nada da área”, a gente vai por partes: primeiro entender o que o case pede, depois estudar só o necessário, e por fim montar projeto teórico + protótipo.
-
 ## 1. O que o case pede, em resumo
-
-Você precisa projetar e construir uma estação que:
 
 - **Mede**: temperatura do ar, pressão atmosférica e umidade relativa.
 - **Calcula**: ponto de orvalho, densidade do ar e altitude-densidade.
@@ -18,7 +12,6 @@ Você precisa projetar e construir uma estação que:
 Datas importantes:
 - **Entrega do projeto teórico (Etapa 1)**: 28/10/2026 (recomendado).
 - **Entrega do protótipo (Etapa 2)**: 09/11/2026.
-- Hoje é 15/10/2026, então você tem cerca de **13 dias** para a Etapa 1.
 
 ## 2. Hardware que a oficina já tem e que provavelmente será usado
 
@@ -32,8 +25,6 @@ Datas importantes:
 - **Alimentação**: bateria LiFePO4 6,6 V + regulador LM2596 para 5 V/3,3 V.
 
 ## 3. Conceitos que você vai precisar aprender 
-
-Não precisa virar especialista. Vá aprendendo conforme usa:
 
 - **GPIO**: pinos que ligam/desligam e conversam com componentes.
 - **I2C**: protocolo de 2 fios usado por BMP180, RTC e LCD.
