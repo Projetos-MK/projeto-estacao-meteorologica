@@ -1,7 +1,3 @@
-# Projeto Teórico
-
-Esse documento contém cada decisão escolhida para a realização da estação meteorológica do case do Processo Seletivo de Sistemas Embarcados.
-
 ## Visão Geral do Sistema
 O que a Estação Meteorológica (EM) faz:
 
